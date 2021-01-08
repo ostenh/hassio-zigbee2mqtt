@@ -122,6 +122,7 @@
       "soft_reset_timeout": "int?",
       "adapter_concurrent": "int?",
       "adapter_delay": "int?",
+      "ikea_ota_use_test_url": "bool?",
       "network_key": [
         "int?"
       ],
